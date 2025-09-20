@@ -1,3 +1,38 @@
+# ePlay
+
+> Plataforma de streaming fictícia criada no curso da EBAC para demonstrar habilidades em React/TypeScript.
+
+---
+
+## ✨ Visão Geral
+
+O **ePlay** é uma aplicação web que simula uma plataforma de streaming de vídeo. Ela permite ao usuário:
+
+- Ver uma galeria de vídeos ou filmes (com títulos, thumbnails)  
+- Clicar em um vídeo para ver mais detalhes  
+- (Outros recursos que você implementou: buscar, filtrar, etc.)
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- React + TypeScript  
+- CSS / Styled Components / outra lib de estilo que você usou  
+- Vite / Create React App (ou outro bundler)  
+- [Qualquer API usada]  
+- Hospedagem / deploy (ex: Vercel)  
+
+---
+
+## 🚀 Como executar localmente
+
+> Siga estes passos para rodar o projeto no seu computador:
+
+1. Clone o repositório  
+   ```bash
+   git clone https://github.com/helbert-guirra/eplay.git
+   cd eplay
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
